@@ -1,15 +1,16 @@
-<h3> Hello, welcome to my Github Profile 👋 </h3>
 
-I'm zhangyi, living in Chaoyang Beijing, China. Currently I'm a computer software engineering .
-<div>
-<a href="#" >
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zy84338719&show_icons=true&include_all_commits=true" alt="Murphyyi's github stats" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue" alt="murphyyi's github stats" />
 
-</div>
-<a  href="#">
-    <img src="https://komarev.com/ghpvc/?username=zy84338719">
-</a>
+### Hi there, I'm [murphyyi](https://murphyyi.com) 🎉
+
+- 🇨🇳 Chinese
+- 👔 Pronouns: "He" | "His"
+- 🧑🏻‍💻 &nbsp;Programmer
+- 🌏 software engineering
+- ⚡ Go, Java, Python ...
+
+<img src="https://github-profile-trophy.vercel.app/?username=zy84338719&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+
 
   
 <!--

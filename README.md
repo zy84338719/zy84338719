@@ -36,11 +36,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=zy84338719&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&hide=html" />
-  
-
-
 ------------------------------------------
 
 ### [我的另一面 ↓](https://github.com/yi-nology)
@@ -49,6 +44,9 @@
 <a href="http://github.com/yi-nology/go-book" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=go-book)</a>
 <a href="http://github.com/yi-nology/weibo" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=weibo)</a>
 <a href="http://github.com/yi-nology/v-bot" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=resume-go)</a>
+<!--
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&hide=html" />
+  
 
 **zy84338719/zy84338719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

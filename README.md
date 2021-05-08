@@ -40,6 +40,16 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&hide=html" />
   
 
+
+------------------------------------------
+
+### [我的另一面 ↓](https://github.com/yi-nology)
+
+<a href="http://github.com/yi-nology/ework" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=ework)</a>
+<a href="http://github.com/yi-nology/go-book" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=go-book)</a>
+<a href="http://github.com/yi-nology/weibo" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=weibo)</a>
+<a href="http://github.com/yi-nology/v-bot" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=resume-go)</a>
+
 **zy84338719/zy84338719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

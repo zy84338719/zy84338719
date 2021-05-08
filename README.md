@@ -39,11 +39,12 @@
 ------------------------------------------
 
 ### [我的另一面 ↓](https://github.com/yi-nology)
-
+<a href="http://github.com/yi-nology/cv" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=cv)</a>
 <a href="http://github.com/yi-nology/ework" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=ework)</a>
 <a href="http://github.com/yi-nology/go-book" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=go-book)</a>
-<a href="http://github.com/yi-nology/weibo" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=weibo)</a>
-<a href="http://github.com/yi-nology/v-bot" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=resume-go)</a>
+<a href="http://github.com/yi-nology/resume-go" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=resume-go)</a>
+<a href="http://github.com/yi-nology/home-system" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=home-system)</a>
+<a href="http://github.com/yi-nology/home-system-f2e" target="_blank">![](https://github-readme-stats.vercel.app/api/pin/?username=yi-nology&show_icons=true&theme=radical&layout=compact&show_owner=true&repo=home-system-f2e)</a>
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&hide=html" />
   

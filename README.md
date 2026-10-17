@@ -65,7 +65,7 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=MurphyYi%27s%20GitHub%20Stats" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue&hide_border=true&rank_icon=github" alt="stats" />
 
 </td>
 <td width="50%" align="center">

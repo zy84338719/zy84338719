@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=41B883&center=true&vCenter=true&width=580&height=50&lines=Go+engineer+%C2%B7+cloud+native+%C2%B7+home+lab;Building+LightCat+%E2%80%94+TR-069%2FCWMP+ACS" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=41B883&center=true&vCenter=true&width=580&height=50&lines=Go+engineer+%C2%B7+cloud+native+%C2%B7+home+lab;Building+LightCat+%E2%80%94+TR-069%2FCWMP+ACS;Building+PigeonBox+%E2%80%94+file+drop+box" alt="typing" />
 </p>
 
 <p align="center">
@@ -26,24 +26,26 @@
   <img src="https://skillicons.dev/icons?i=go,java,python,rust,docker,kubernetes,linux,mysql,redis,git,github,prometheus" alt="skills" />
 </p>
 
+<!-- STATS_CARDS:theme-sync:start -->
 <table>
 <tr>
 <td align="center" width="50%">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue&hide_border=true&rank_icon=github" alt="stats" />
+  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue&hide_border=true&rank_icon=github&title_color=6C5CE7&icon_color=6C5CE7" alt="stats" />
 </td>
 <td align="center" width="50%">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&layout=compact&theme=vue&hide_border=true&langs_count=8&card_width=320" alt="top-langs" />
+  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&layout=compact&theme=vue&hide_border=true&langs_count=8&card_width=450&title_color=6C5CE7" alt="top-langs" />
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-  <img height="185" src="https://streak-stats.demolab.com?user=zy84338719&theme=vue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="streak" />
+  <img width="450" height="195" src="https://streak-stats.demolab.com?user=zy84338719&theme=vue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=6C5CE7&currStreakNum=6C5CE7&sideNums=6C5CE7&fire=E25822" alt="streak" />
 </td>
 <td align="center" width="50%">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/pin/?username=zy84338719&repo=lightcat&theme=vue&hide_border=true&show_owner=false" alt="lightcat" />
+  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=zy84338719&repo=lightcat&theme=vue&hide_border=true&show_owner=false&title_color=6C5CE7&icon_color=6C5CE7" alt="lightcat" />
 </td>
 </tr>
 </table>
+<!-- STATS_CARDS:theme-sync:end -->
 
 <p align="center">
   <picture>
@@ -52,6 +54,24 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/zy84338719/zy84338719/output/github-snake.svg" />
   </picture>
 </p>
+
+### Spotlight · [PigeonBox](https://github.com/pigeonbox/pigeonbox)
+
+**像取快递一样分享文件。** 匿名口令分享文本与文件的开源自托管平台 — 寄件生成口令，对方凭码取件，到期自动销毁，无需注册。
+
+| | |
+|---|---|
+| 🔑 **匿名口令取件** | 阅后即焚 · 过期自动清理，不落账号体系 |
+| 🗄️ **多存储后端** | OpenDAL 统一抽象：本地 / S3 / OSS / COS / WebDAV / FTP / SFTP … |
+| 🚀 **多种交付形态** | Docker · Kubernetes Helm · Tauri 桌面 · 飞牛 / 群晖 / 威联通 / OpenWrt |
+| 📊 **开箱可观测** | Prometheus `/metrics` · OpenTelemetry 链路追踪可选 |
+| 🕸️ **P2P 联邦（可选）** | 多节点联邦互认取件 · MCP 端点供 AI 客户端管理 |
+
+```bash
+docker compose up -d   # API :12345 · 前端 :80
+```
+
+[仓库](https://github.com/pigeonbox/pigeonbox) · [Releases](https://github.com/pigeonbox/pigeonbox/releases) · [架构图集](https://github.com/pigeonbox/pigeonbox/blob/main/docs/architecture.md) · [组织](https://github.com/pigeonbox)
 
 ### Selected Work
 

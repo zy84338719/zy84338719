@@ -28,22 +28,22 @@
 
 <table>
 <tr>
-<td width="55%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue&hide_border=true&rank_icon=github" alt="stats" />
-
+<td align="center" width="50%">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue&hide_border=true&rank_icon=github" alt="stats" />
 </td>
-<td width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&layout=donut&theme=vue&hide_border=true&langs_count=7&hide=html,css" alt="top-langs" />
-
+<td align="center" width="50%">
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&layout=compact&theme=vue&hide_border=true&langs_count=8&card_width=320" alt="top-langs" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <img height="185" src="https://streak-stats.demolab.com?user=zy84338719&theme=vue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="streak" />
+</td>
+<td align="center" width="50%">
+  <img height="185" src="https://github-readme-stats.vercel.app/api/pin/?username=zy84338719&repo=lightcat&theme=vue&hide_border=true&show_owner=false" alt="lightcat" />
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zy84338719&theme=vue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="streak" />
-</p>
 
 <p align="center">
   <picture>

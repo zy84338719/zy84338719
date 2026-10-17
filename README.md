@@ -38,7 +38,7 @@
   &nbsp;
   <a href="mailto:zhangyi@murphyyi.com"><img src="https://img.shields.io/badge/Email-zhangyi%40murphyyi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=zy84338719&style=for-the-badge&color=41B883&label=Profile+Views" alt="views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zy84338719.zy84338719&right_color=41B883&left_text=Profile%20Views" alt="views" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zy84338719&theme=vue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=zy84338719&theme=vue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="streak" />
 </p>
 
 ---
@@ -231,8 +231,4 @@ JSON Object → Thrift IDL 一键转换。
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:41B883,100:2c3e50&height=120&section=footer&text=&animation=fadeInOut" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zy84338719.zy84338719&right_color=41B883" alt="visitors" />
 </p>

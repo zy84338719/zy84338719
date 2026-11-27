@@ -30,18 +30,18 @@
 <table>
 <tr>
 <td align="center" width="50%">
-  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue&hide_border=true&rank_icon=github&title_color=3AA675&icon_color=3AA675" alt="stats" />
+  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api?username=zy84338719&show_icons=true&theme=vue&hide_border=true&rank_icon=github&title_color=D97B29&icon_color=D97B29" alt="stats" />
 </td>
 <td align="center" width="50%">
-  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&layout=compact&theme=vue&hide_border=true&langs_count=8&card_width=450&title_color=3AA675" alt="top-langs" />
+  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy84338719&layout=compact&theme=vue&hide_border=true&langs_count=8&card_width=450&title_color=D97B29" alt="top-langs" />
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-  <img width="450" height="195" src="https://streak-stats.demolab.com?user=zy84338719&theme=vue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=3AA675&currStreakNum=3AA675&sideNums=3AA675&fire=E8A23A" alt="streak" />
+  <img width="450" height="195" src="https://streak-stats.demolab.com?user=zy84338719&theme=vue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=D97B29&currStreakNum=D97B29&sideNums=D97B29&fire=E25822" alt="streak" />
 </td>
 <td align="center" width="50%">
-  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=zy84338719&repo=lightcat&theme=vue&hide_border=true&show_owner=false&title_color=3AA675&icon_color=3AA675" alt="lightcat" />
+  <img width="450" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=zy84338719&repo=lightcat&theme=vue&hide_border=true&show_owner=false&title_color=D97B29&icon_color=D97B29" alt="lightcat" />
 </td>
 </tr>
 </table>
